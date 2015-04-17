@@ -1,6 +1,6 @@
 {
   "name": "hubot-recotw",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Hubot script to integrate RecoTw",
   "main": "index.coffee",
   "scripts": {
