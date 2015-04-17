@@ -8,6 +8,10 @@
   },
   "author": "hina<hina@hinaloe.net>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hinaloe/hubot-recotw.git"
+  },
   "devDependencies": {
     "coffee-script": "^1.9.2",
     "hubot": "^2.12.0"
@@ -15,5 +19,9 @@
   "dependencies": {
     "promise": "^7.0.0",
     "recotw-js": "0.0.4"
-  }
+  },
+  "keywords": [
+    "hubot",
+    "hubot-script"
+  ]
 }
